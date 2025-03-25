@@ -1,4 +1,4 @@
-Complex Pattern Printing
+Pattern pyramid 
 
 Challenge:
 
