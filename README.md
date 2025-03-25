@@ -1,4 +1,6 @@
-Pattern pyramid 
+# Pattern pyramid 
+
+A complex pattern printing
 
 Challenge:
 
