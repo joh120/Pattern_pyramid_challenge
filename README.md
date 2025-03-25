@@ -1,7 +1,7 @@
 # Pattern pyramid 
 
 A complex pattern printing
-
+s
 Challenge:
 
 Write a function that prints a pyramid pattern of numbers based on n rows.
